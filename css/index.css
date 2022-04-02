@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&family=Nunito+Sans:wght@400;700&display=swap');
+
+body {
+    background-color: lightblue;
+  }
+
+.homebutton {
+    clear: both;
+    width: auto;
+    text-align: center;
+    height: auto;
+    display: block;
+    padding-top:3em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagelinks {
+    display: block;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    object-fit: cover;
+    object-position: 45% 1%;
+  }
+  .imagelinkstwo {
+    display: block;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    object-fit: cover;
+    object-position:45% 42%;
+  }
+
+  .imagelinksthree {
+    display: block;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    object-fit: cover;
+    object-position:45% 0;
+  }
+
+h1 {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    text-align: center;
+    display: block;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.return {
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+    color: black;
+    width: 70%;
+    height: auto;
+    display: block;
+    padding-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.linkcaption {
+    color: black;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 1.25em;
+    text-align: center;
+    display: block;
+    width: 70%;
+    height: auto;
+    padding-top: .8em;
+    padding-bottom: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+}
